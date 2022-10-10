@@ -1,1 +1,15 @@
 Fill in the passphrases here.
+
+In order of which I found the passphrases:
+7. YouFoundMe
+9. 2020sucked
+12. iLoveWebDev
+3. HTMLRocks
+4. JavaScriptRules
+1. greenEggsAndHam
+5. SvelteBeatsReact
+2. iHateCplusplus
+11. allyComesFirst
+8. coolcoolcool
+6. ThisIsJS
+10. listenToTheBlackKeys
