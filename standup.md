@@ -1,13 +1,15 @@
 # Standup Notes
-Team: Code Avengers (Group 36)
+Team: Code Avengers
+
 Name: Rappel
+
 Date: 
 
-## What did I work on yesterday?
+### What did I work on yesterday?
 - (item)
 
-## What am I working on today?
+### What am I working on today?
 - (item)
 
-## What issues are blocking me?
+### What issues are blocking me?
 - (item)
