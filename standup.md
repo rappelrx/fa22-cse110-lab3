@@ -1,8 +1,6 @@
 # Standup Notes
-Team: Code Avengers
-
-Name: Rappel
-
+Team: Code Avengers  
+Name: Rappel  
 Date: 
 
 ### What did I work on yesterday?
