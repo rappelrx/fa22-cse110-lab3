@@ -9,13 +9,17 @@
     <!--Internal CSS styling-->
     <style>
         #org-name {
-            color: #d133ff
+            color: #d133ff;
+        }
+        .shortBox {
+            text-align: center;
+            text-decoration: overline palevioletred wavy;
         }
     </style>
   </head>
 
   <body>
-    <header>
+    <header class="shortBox">
         <h1>Meeting Minutes: <b id="org-name">Intermission Orchestra</b></h1>
         <h2>Week 2 Planning</h2>
         <h2>October 3, 2022</h2>
@@ -23,7 +27,7 @@
 
     <hr>
 
-    <section>
+    <section class="longBox">
         <h3>Attendance</h3>
         <div>
             <p>Present:</p>
@@ -46,7 +50,7 @@
     <hr>
 
     <main>
-        <section>
+        <section class="longBox">
             <h3>Agenda</h3>
             <ol>
                 <li>GBM recap. Post <span>wonderful</span> pictures on social media</li>
@@ -57,7 +61,7 @@
 
         <hr>
 
-        <section>
+        <section class="longBox">
             <h3>Social Media Links</h3>
             <nav>
                 <a href="https://twitter.com/tioatucsd?lang=en">Twitter</a><br>
@@ -68,13 +72,15 @@
 
         <hr>
 
-        <section>
+        <section class="longBox">
             <h3>Multimedia</h3>
-            <p>Audio:</p>
-            <audio controls>
-                <source src="multimedia/layton.wav" type="audio/wav">
-                Your browser does not support the audio tag.
-            </audio><br><br>
+            <div class="autoMarginBox">
+                <p>Audio:</p>
+                <audio controls>
+                    <source src="multimedia/layton.wav" type="audio/wav">
+                    Your browser does not support the audio tag.
+                </audio>
+            </div>
 
             <p>Video:</p>
             <video controls>

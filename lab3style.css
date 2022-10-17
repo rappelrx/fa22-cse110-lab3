@@ -1,0 +1,51 @@
+/*body styling*/
+body {
+    background-color:#a2c8ec;
+}
+
+/*box container for important sections*/
+.longBox {
+    width: 1000px;
+
+    margin-top: 1pc;
+    margin-bottom: 20px;
+    margin-left: 1em;
+    margin-right: 10px;
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 1cm;
+    padding-right: 1cm;
+
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 30px;
+    border-color:hsl(348, 44%, 47%);
+
+    background-color: rgb(212, 187, 163);
+}
+
+/*box container for header*/
+.shortBox {
+    max-width: 1000px;
+    min-width: 250px;
+    height: 12rem;
+    margin: 2px 2px 2px 2px;
+    padding: 5lh 5lh 5lh 5lh;
+    border: 5px dotted #ccab8d;
+    border-radius: 30pt;
+    background-color: #f1e6b9;
+}
+
+.autoMarginBox {
+    background-color: bisque;
+    margin:auto;
+}
+
+video {
+    display:block;
+}
+
+img {
+    display:inline;
+}
